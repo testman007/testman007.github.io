@@ -347,6 +347,7 @@ code {
   background: #26272b;
   padding-bottom: 60px;
   position: relative;
+  background-image: url("/img/ma.jpg");
 }
 #header-outer {
   height: 100%;
