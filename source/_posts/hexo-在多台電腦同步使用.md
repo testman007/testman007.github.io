@@ -2,9 +2,9 @@
 title: hexo-在多台電腦同步使用
 date: 2018-03-27 15:22:49
 categories:
--hexo
+- hexo
 tags:
--hexo
+- hexo
 ---
 
 在擁有多台電腦的場合，會希望可以在每台電腦上都可以更新hexo，所以研究一下怎麼同步，基本上就是利用github去同步source的內容。
